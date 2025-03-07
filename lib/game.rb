@@ -1,5 +1,5 @@
 class Game
-  attr_accessor :winner, :player_score
+  attr_accessor :player_score
 
   def initialize
     @player_score = []
